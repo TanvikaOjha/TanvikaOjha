@@ -12,7 +12,7 @@
 - ⛓️ Blockchain & Web3: Architecting smart contracts in Solidity and integrating decentralized protocols with modern React frontends via Ethers.js.
 - 🧠 Machine Learning & Data Engineering: Developing exploratory data analysis (EDA) pipelines, model performance auditing, and scientific computing tools using Python and PyTorch.
 - 🌐 Exploring cryptographic proofs and decentralized storage to create transparent, tamper-proof memory logs for AI agents.
-- 🌌 Also working on Gravitational Wave Analysis.
+
 
 <br />
 
